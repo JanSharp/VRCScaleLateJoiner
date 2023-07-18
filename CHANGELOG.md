@@ -1,0 +1,16 @@
+
+# Changelog
+
+## [0.1.0] - 2023-07-18
+
+_First version of this package that is in the VCC listing._
+
+### Added
+
+- Add readme with a disclaimer and installation instructions ([`c29a87c`](https://github.com/JanSharp/VRCScaleLateJoiner/commit/c29a87c318e2c6ae5bad95e157e4d45e2b189f1f))
+- Add `com.jansharp.common` as a vpm dependency for editor utils ([`9784c42`](https://github.com/JanSharp/VRCScaleLateJoiner/commit/9784c4221fed31b8c10c8555e4fcf81de85ff38c))
+- Add full syncing support ([`ac2f8f6`](https://github.com/JanSharp/VRCScaleLateJoiner/commit/ac2f8f637d48f66f1d24015438bd28c06d418c44), [`54a7ae0`](https://github.com/JanSharp/VRCScaleLateJoiner/commit/54a7ae0e209665f52c6c8b70783cea0bc0ba9b21), [`a5c9142`](https://github.com/JanSharp/VRCScaleLateJoiner/commit/a5c9142c023ca0fc416503e196d483828656ea00))
+- Add ItemScaleManager to manage item scales to support late joiners ([`ac2f8f6`](https://github.com/JanSharp/VRCScaleLateJoiner/commit/ac2f8f637d48f66f1d24015438bd28c06d418c44), [`54a7ae0`](https://github.com/JanSharp/VRCScaleLateJoiner/commit/54a7ae0e209665f52c6c8b70783cea0bc0ba9b21), [`45559f3`](https://github.com/JanSharp/VRCScaleLateJoiner/commit/45559f3b2f498a7ba64ca724d76a4e776f3ea9ca), [`b0f94dd`](https://github.com/JanSharp/VRCScaleLateJoiner/commit/b0f94dd0403ec687621e2219953155d6a4cd31f4), [`ee4ffb5`](https://github.com/JanSharp/VRCScaleLateJoiner/commit/ee4ffb5ffe6218097cd01b94becc93bafb6ad2ca), [`bffd530`](https://github.com/JanSharp/VRCScaleLateJoiner/commit/bffd530a9a0ac16660033dfe8cb8970dd4d423a9))
+- Add ScaleChanger to increase and decrease the scale of managed items ([`ac2f8f6`](https://github.com/JanSharp/VRCScaleLateJoiner/commit/ac2f8f637d48f66f1d24015438bd28c06d418c44), [`bc56ab2`](https://github.com/JanSharp/VRCScaleLateJoiner/commit/bc56ab2eccea627fb11019b815eaa0c3a900b8b9), [`e38950a`](https://github.com/JanSharp/VRCScaleLateJoiner/commit/e38950a904ca1cf9ccd00546f87af0db975daf51))
+
+[0.1.0]: https://github.com/JanSharp/VRCScaleLateJoiner/releases/tag/v0.1.0
