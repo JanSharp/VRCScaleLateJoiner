@@ -1,0 +1,18 @@
+{
+  "name": "com.jansharp.scale-late-joiner",
+  "version": "0.1.0",
+  "description": "A quick and dirty hack to sync scale changes of items for late joiners.",
+  "displayName": "Scale Late Joiner",
+  "unity": "2019.4",
+  "author": {
+    "name": "JanSharp",
+    "email": "steinmeister36@gmail.com",
+    "url": "https://jansharp.github.io"
+  },
+  "license": "MIT",
+  "vpmDependencies": {
+    "com.vrchat.udonsharp": "^1.1.x"
+  },
+  "url": "https://github.com/JanSharp/VRCScaleLateJoiner/releases/download/v0.1.0/com.jansharp.scale-late-joiner.zip",
+  "changelogUrl": "https://github.com/JanSharp/VRCScaleLateJoiner/blob/v0.1.0/CHANGELOG.md"
+}
