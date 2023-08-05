@@ -32,7 +32,7 @@ namespace JanSharp
                     List<GameObject> itemsList = new List<GameObject>();
                     foreach (GameObject obj in manager.parentsForObjectPools)
                     {
-                        foreach (VRCObjectPool op in obj.GetComponentsInChildren<VRCObjectPool>())
+                        foreach (VRCObjectPool op in obj.GetComponentsInChildren<VRCObjectPool>(true))
                         {
                             itemsList.AddRange(op.Pool);
                         }
