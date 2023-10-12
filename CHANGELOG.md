@@ -1,6 +1,16 @@
 
 # Changelog
 
+## [0.1.2] - 2023-10-12
+
+### Changed
+
+- Update vrc worlds dependency to 3.4.x ([`daba2cb`](https://github.com/JanSharp/VRCScaleLateJoiner/commit/daba2cb08c8e4a4deaa959e8c60bbdde7fc649a2))
+
+### Removed
+
+- Remove udonsharp dependency as it has been merged into worlds ([`daba2cb`](https://github.com/JanSharp/VRCScaleLateJoiner/commit/daba2cb08c8e4a4deaa959e8c60bbdde7fc649a2))
+
 ## [0.1.1] - 2023-08-05
 
 ### Changed
@@ -28,5 +38,6 @@ _First version of this package that is in the VCC listing._
 - Add ItemScaleManager to manage item scales to support late joiners ([`ac2f8f6`](https://github.com/JanSharp/VRCScaleLateJoiner/commit/ac2f8f637d48f66f1d24015438bd28c06d418c44), [`54a7ae0`](https://github.com/JanSharp/VRCScaleLateJoiner/commit/54a7ae0e209665f52c6c8b70783cea0bc0ba9b21), [`45559f3`](https://github.com/JanSharp/VRCScaleLateJoiner/commit/45559f3b2f498a7ba64ca724d76a4e776f3ea9ca), [`b0f94dd`](https://github.com/JanSharp/VRCScaleLateJoiner/commit/b0f94dd0403ec687621e2219953155d6a4cd31f4), [`ee4ffb5`](https://github.com/JanSharp/VRCScaleLateJoiner/commit/ee4ffb5ffe6218097cd01b94becc93bafb6ad2ca), [`bffd530`](https://github.com/JanSharp/VRCScaleLateJoiner/commit/bffd530a9a0ac16660033dfe8cb8970dd4d423a9))
 - Add ScaleChanger to increase and decrease the scale of managed items ([`ac2f8f6`](https://github.com/JanSharp/VRCScaleLateJoiner/commit/ac2f8f637d48f66f1d24015438bd28c06d418c44), [`bc56ab2`](https://github.com/JanSharp/VRCScaleLateJoiner/commit/bc56ab2eccea627fb11019b815eaa0c3a900b8b9), [`e38950a`](https://github.com/JanSharp/VRCScaleLateJoiner/commit/e38950a904ca1cf9ccd00546f87af0db975daf51))
 
+[0.1.2]: https://github.com/JanSharp/VRCScaleLateJoiner/releases/tag/v0.1.2
 [0.1.1]: https://github.com/JanSharp/VRCScaleLateJoiner/releases/tag/v0.1.1
 [0.1.0]: https://github.com/JanSharp/VRCScaleLateJoiner/releases/tag/v0.1.0
